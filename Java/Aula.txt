@@ -1,0 +1,9 @@
+Compilação JIT = JustInTime
+
+Java é linguagem POO
+
+Java compila só uma vez pra rodar em qualquer sistema operacional
+
+JRE= Executa programas java
+
+JDK = Utilitários que permite que desenvolvamos programa em Java
