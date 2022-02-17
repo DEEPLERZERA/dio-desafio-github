@@ -8,7 +8,7 @@ public class MyFirstProgramJava {
 
 	public static void main(String[] args) {
 
-		Final Order order = new Order("code1234");;
+		Final Order order = new Order("code1234");
 		System.out.println(order);
 
 

@@ -7,3 +7,43 @@ Java compila só uma vez pra rodar em qualquer sistema operacional
 JRE= Executa programas java
 
 JDK = Utilitários que permite que desenvolvamos programa em Java
+
+
+Palavras reservadas que não podem usar em nome de variáveis
+
+Declaração de classes exemplo
+
+public class Order {
+
+}
+
+
+Modificadores de acesso:
+
+PUBLIC
+PROTECT
+sem modificador
+PRIVATE
+
+Estrutura de condição IF-ELSE
+Estrutura de repetição WHILE, DO-WHILE,FOR,etc
+
+Comentário em bloco fica /**
+
+A
+A
+A
+A
+*/
+
+Tags javadoc
+
+@author
+@deprecated
+@link
+@param
+@see
+@since
+@throws
+@version
+
